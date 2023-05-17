@@ -68,6 +68,10 @@ main {
     background-blend-mode: color-burn;
 }
 
+main a{
+    color: #000;
+}
+
 .promotion {
     position: relative;
 }
